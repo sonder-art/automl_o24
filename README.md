@@ -1,18 +1,18 @@
 # automl_p24
 Repositorio del Curso LLMs y AutoML del ITAM Primavera 2024
 
-![AutoML](automl_p24.png)
+![AutoML](automl_o24.png)
 
 
 ## Recursos
-[Drive/Documentos de la Clase](https://drive.google.com/drive/folders/1sREq4JhHKitD7SOab-_yDsSw9L7Ti4oP?usp=sharing)  
+[Drive/Documentos de la Clase](https://drive.google.com/drive/folders/1azHgXabli9THIOEDKRtGXJTIOj0Z01qJ?usp=drive_link)  
 
-[Syllabus]( )  
+[Syllabus](https://docs.google.com/document/d/1PbOgSSHCDrxzVqrwI7vyAr3GxwyHNXeM6Vgz-b3UWqw/edit?usp=sharing)  
 
-[Calendario y Anuncios](https://docs.google.com/spreadsheets/d/1rMmBl86AVo3JCd8krtvP4hFIjB9zNFoCzZ0xud_qnjU/edit#gid=0)  
+[Calendario y Anuncios](https://docs.google.com/spreadsheets/d/16x7SIcXI5IFzV9S7q_wxVcEFUeQfAJ4uzq9_tQNICvA/edit?usp=sharing)  
 
 ## Github
-[Github](https://github.com/sonder-art/automl_p24)
+[Github](https://github.com/sonder-art/automl_o24)
 ## Discord
 [Discord](https://discord.gg/qzhRh8kxHa)
 
