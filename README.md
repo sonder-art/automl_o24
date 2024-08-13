@@ -5,7 +5,7 @@ Repositorio del Curso LLMs y AutoML del ITAM Primavera 2024
 
 
 ## Recursos
-[Drive/Documentos de la Clase](https://drive.google.com/drive/folders/1azHgXabli9THIOEDKRtGXJTIOj0Z01qJ?usp=drive_link)  
+[Drive/Documentos de la Clase](https://drive.google.com/drive/folders/1azHgXabli9THIOEDKRtGXJTIOj0Z01qJ?usp=sharing)  
 
 [Syllabus](https://docs.google.com/document/d/1PbOgSSHCDrxzVqrwI7vyAr3GxwyHNXeM6Vgz-b3UWqw/edit?usp=sharing)  
 
@@ -15,5 +15,7 @@ Repositorio del Curso LLMs y AutoML del ITAM Primavera 2024
 [Github](https://github.com/sonder-art/automl_o24)
 ## Discord Updated
 [Discord](https://discord.gg/XGZXjzd4cX)
+
+
 
 
