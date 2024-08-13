@@ -13,7 +13,8 @@ Repositorio del Curso LLMs y AutoML del ITAM Primavera 2024
 
 ## Github
 [Github](https://github.com/sonder-art/automl_o24)
-## Discord Updated
+
+## Discord Updated 
 [Discord](https://discord.gg/XGZXjzd4cX)
 
 
