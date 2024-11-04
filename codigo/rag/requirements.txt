@@ -1,0 +1,11 @@
+sentence-transformers>=2.2.2
+lancedb>=0.3.3
+plotly>=5.13.0
+ipywidgets>=8.0.0
+tqdm>=4.65.0
+pandas>=1.5.3
+numpy>=1.24.2
+scikit-learn>=1.2.2
+torch>=2.0.0
+langchain>=0.0.300
+langchain-community>=0.0.10

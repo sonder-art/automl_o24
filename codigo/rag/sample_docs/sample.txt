@@ -1,0 +1,7 @@
+
+Artificial Intelligence (AI) is revolutionizing various industries.
+Machine learning, a subset of AI, enables computers to learn from data.
+Deep learning is a type of machine learning that uses neural networks.
+Natural Language Processing (NLP) helps computers understand human language.
+Computer Vision allows machines to interpret and analyze visual information.
+Reinforcement Learning is about teaching agents through reward systems.
